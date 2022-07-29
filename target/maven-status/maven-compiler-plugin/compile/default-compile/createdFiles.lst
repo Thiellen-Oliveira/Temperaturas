@@ -1,0 +1,4 @@
+com\Conversor.class
+com\conversor\JAXRSConfiguration.class
+com\ConversorController.class
+com\conversor\resources\JavaEE8Resource.class
